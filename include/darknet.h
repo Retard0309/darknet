@@ -1,4 +1,4 @@
-#ifndef DARKNET_API
+#ifndef DARKNET_API usage: ./darknet <function>
 #define DARKNET_API
 #include <stdlib.h>
 #include <stdio.h>
